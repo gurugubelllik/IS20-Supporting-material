@@ -2,7 +2,7 @@
 
 Created for supporting the manuscript submitted to Interspeech 2020
 
-    Matlab implementation for Proposed and Baseline features is given in Demo.m
+    Matlab implementations for Proposed and Baseline features are given
 
     Feature extraction details are given in Is_2020_Supporting_Material_Purva.pdf
 
